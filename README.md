@@ -101,7 +101,7 @@
    
    Edit `.env` and update the following:
    ```env
-   PORT=3000
+   PORT=5000
    MONGODB_URL=mongodb://127.0.0.1:27017/node-boilerplate
    JWT_SECRET=your-super-secret-jwt-key-change-this-in-production
    ```
@@ -124,9 +124,9 @@
    ```
 
 6. **Access the API**
-   - API Base URL: `http://localhost:3000`
-   - API Documentation: `http://localhost:3000/v1/docs`
-   - Root Endpoint: `http://localhost:3000/`
+   - API Base URL: `http://localhost:5000`
+   - API Documentation: `http://localhost:5000/v1/docs`
+   - Root Endpoint: `http://localhost:5000/`
 
 ---
 
@@ -172,7 +172,7 @@ Create a `.env` file in the root directory:
 
 ```env
 # Server Configuration
-PORT=3000
+PORT=5000
 NODE_ENV=development
 
 # Database
@@ -200,7 +200,7 @@ EMAIL_FROM=support@yourapp.com
 ### Interactive API Docs
 
 Once the server is running, visit:
-- **Swagger UI**: `http://localhost:3000/v1/docs`
+- **Swagger UI**: `http://localhost:5000/v1/docs`
 
 ### Available Endpoints
 
@@ -230,7 +230,7 @@ Once the server is running, visit:
 
 #### Register a User
 ```bash
-curl -X POST http://localhost:3000/v1/auth/register \
+curl -X POST http://localhost:5000/v1/auth/register \
   -H "Content-Type: application/json" \
   -d '{
     "name": "John Doe",
@@ -241,7 +241,7 @@ curl -X POST http://localhost:3000/v1/auth/register \
 
 #### Login
 ```bash
-curl -X POST http://localhost:3000/v1/auth/login \
+curl -X POST http://localhost:5000/v1/auth/login \
   -H "Content-Type: application/json" \
   -d '{
     "email": "john@example.com",
@@ -251,7 +251,7 @@ curl -X POST http://localhost:3000/v1/auth/login \
 
 #### Get Users (Authenticated)
 ```bash
-curl -X GET http://localhost:3000/v1/users \
+curl -X GET http://localhost:5000/v1/users \
   -H "Authorization: Bearer YOUR_ACCESS_TOKEN"
 ```
 
@@ -463,7 +463,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 If you have any questions or need help, please:
 - Open an issue on [GitHub](https://github.com/Abhishek371222/Bolier-Plate/issues)
-- Check the [API Documentation](http://localhost:3000/v1/docs) when the server is running
+- Check the [API Documentation](http://localhost:5000/v1/docs) when the server is running
 
 ---
 
