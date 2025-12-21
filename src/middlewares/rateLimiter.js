@@ -8,4 +8,4 @@ const authLimiter = rateLimit({
 
 module.exports = {
   authLimiter,
-};
+};\n// Updated 2025\n

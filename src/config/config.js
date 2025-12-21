@@ -61,4 +61,4 @@ module.exports = {
     },
     from: envVars.EMAIL_FROM,
   },
-};
+};\n// Updated 2025\n

@@ -54,4 +54,4 @@ describe('User model', () => {
       expect(new User(newUser).toJSON()).not.toHaveProperty('password');
     });
   });
-});
+});\n// Updated 2025\n

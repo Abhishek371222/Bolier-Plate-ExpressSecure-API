@@ -584,4 +584,4 @@ describe('Auth middleware', () => {
 
     expect(next).toHaveBeenCalledWith();
   });
-});
+});\n// Updated 2025\n

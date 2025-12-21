@@ -622,4 +622,4 @@ describe('User routes', () => {
         .expect(httpStatus.BAD_REQUEST);
     });
   });
-});
+});\n// Updated 2025\n

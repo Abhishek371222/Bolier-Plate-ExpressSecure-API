@@ -83,4 +83,4 @@ All notable changes to this project will be documented in this file. See [standa
 
 ### Features
 
-- initial release
+- initial release\n\n<!-- Updated 2025 -->\n

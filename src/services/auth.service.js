@@ -96,4 +96,4 @@ module.exports = {
   refreshAuth,
   resetPassword,
   verifyEmail,
-};
+};\n// Updated 2025\n

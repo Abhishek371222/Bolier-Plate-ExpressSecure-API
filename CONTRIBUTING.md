@@ -29,4 +29,4 @@ We are using ESLint to ensure a consistent code style in the project, based on [
 
 Some other ESLint plugins are also being used, such as the [Prettier](https://github.com/prettier/eslint-plugin-prettier) and [Jest](https://github.com/jest-community/eslint-plugin-jest) plugins.
 
-Please make sure that the code you are pushing conforms to the style guides mentioned above.
+Please make sure that the code you are pushing conforms to the style guides mentioned above.\n\n<!-- Updated 2025 -->\n

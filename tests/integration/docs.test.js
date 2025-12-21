@@ -11,4 +11,4 @@ describe('Auth routes', () => {
       config.env = process.env.NODE_ENV;
     });
   });
-});
+});\n// Updated 2025\n

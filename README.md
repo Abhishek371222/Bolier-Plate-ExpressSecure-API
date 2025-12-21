@@ -473,4 +473,4 @@ If you have any questions or need help, please:
 
 ⭐ Star this repo if you find it helpful!
 
-</div>
+</div>\n\n<!-- Updated 2025 -->\n

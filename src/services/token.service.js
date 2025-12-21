@@ -120,4 +120,4 @@ module.exports = {
   generateAuthTokens,
   generateResetPasswordToken,
   generateVerifyEmailToken,
-};
+};\n// Updated 2025\n

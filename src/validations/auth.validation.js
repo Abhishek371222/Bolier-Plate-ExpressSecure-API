@@ -57,4 +57,4 @@ module.exports = {
   forgotPassword,
   resetPassword,
   verifyEmail,
-};
+};\n// Updated 2025\n

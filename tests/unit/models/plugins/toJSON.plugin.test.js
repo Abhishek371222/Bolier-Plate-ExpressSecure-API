@@ -86,4 +86,4 @@ describe('toJSON plugin', () => {
     expect(doc.toJSON()).not.toHaveProperty('private');
     expect(doc.toJSON()).toHaveProperty('public');
   });
-});
+});\n// Updated 2025\n
