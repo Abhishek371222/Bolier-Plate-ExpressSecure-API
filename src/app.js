@@ -50,6 +50,19 @@ if (config.env === 'production') {
   app.use('/v1/auth', authLimiter);
 }
 
+// root route
+app.get('/', (req, res) => {
+  res.status(httpStatus.OK).json({
+    message: 'Welcome to Node.js Express Boilerplate API',
+    version: '1.0.0',
+    endpoints: {
+      auth: '/v1/auth',
+      users: '/v1/users',
+      docs: config.env === 'development' ? '/v1/docs' : 'Available in development mode only',
+    },
+  });
+});
+
 // v1 api routes
 app.use('/v1', routes);
 

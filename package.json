@@ -1,11 +1,13 @@
 {
-  "name": "create-nodejs-express-app",
+  "name": "bolier-plate",
   "version": "1.7.0",
-  "description": "Create a Node.js app for building production-ready RESTful APIs using Express, by running one command",
-  "bin": "bin/createNodejsApp.js",
+  "description": "A production-ready boilerplate for building RESTful APIs using Node.js, Express, and Mongoose",
   "main": "src/index.js",
-  "repository": "https://github.com/hagopj13/node-express-boilerplate.git",
-  "author": "Hagop Jamkojian <hagopj13@gmail.com>",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Abhishek371222/Bolier-Plate.git"
+  },
+  "author": "Abhishek371222",
   "license": "MIT",
   "engines": {
     "node": ">=12.0.0"
