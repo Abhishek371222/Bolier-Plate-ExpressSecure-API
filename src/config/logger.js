@@ -23,4 +23,5 @@ const logger = winston.createLogger({
   ],
 });
 
-module.exports = logger;\n// Updated 2025\n
+module.exports = logger;
+// Updated 2025

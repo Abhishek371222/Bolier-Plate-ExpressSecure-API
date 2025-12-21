@@ -1,2 +1,3 @@
 module.exports.Token = require('./token.model');
-module.exports.User = require('./user.model');\n// Updated 2025\n
+module.exports.User = require('./user.model');
+// Updated 2025

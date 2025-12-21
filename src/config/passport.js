@@ -27,4 +27,5 @@ const jwtStrategy = new JwtStrategy(jwtOptions, jwtVerify);
 
 module.exports = {
   jwtStrategy,
-};\n// Updated 2025\n
+};
+// Updated 2025

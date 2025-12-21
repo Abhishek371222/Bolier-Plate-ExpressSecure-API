@@ -18,4 +18,5 @@ const validate = (schema) => (req, res, next) => {
   return next();
 };
 
-module.exports = validate;\n// Updated 2025\n
+module.exports = validate;
+// Updated 2025

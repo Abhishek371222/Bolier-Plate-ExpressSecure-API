@@ -9,4 +9,5 @@ const roleRights = new Map(Object.entries(allRoles));
 module.exports = {
   roles,
   roleRights,
-};\n// Updated 2025\n
+};
+// Updated 2025

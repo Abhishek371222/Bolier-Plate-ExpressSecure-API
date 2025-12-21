@@ -18,4 +18,5 @@ router.get(
   })
 );
 
-module.exports = router;\n// Updated 2025\n
+module.exports = router;
+// Updated 2025

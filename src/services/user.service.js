@@ -86,4 +86,5 @@ module.exports = {
   getUserByEmail,
   updateUserById,
   deleteUserById,
-};\n// Updated 2025\n
+};
+// Updated 2025

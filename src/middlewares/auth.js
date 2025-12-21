@@ -28,4 +28,5 @@ const auth = (...requiredRights) => async (req, res, next) => {
     .catch((err) => next(err));
 };
 
-module.exports = auth;\n// Updated 2025\n
+module.exports = auth;
+// Updated 2025

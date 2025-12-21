@@ -41,4 +41,5 @@ tokenSchema.plugin(toJSON);
  */
 const Token = mongoose.model('Token', tokenSchema);
 
-module.exports = Token;\n// Updated 2025\n
+module.exports = Token;
+// Updated 2025

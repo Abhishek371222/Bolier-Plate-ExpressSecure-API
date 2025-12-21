@@ -60,4 +60,5 @@ module.exports = {
   sendEmail,
   sendResetPasswordEmail,
   sendVerificationEmail,
-};\n// Updated 2025\n
+};
+// Updated 2025

@@ -7,4 +7,5 @@ const tokenTypes = {
 
 module.exports = {
   tokenTypes,
-};\n// Updated 2025\n
+};
+// Updated 2025

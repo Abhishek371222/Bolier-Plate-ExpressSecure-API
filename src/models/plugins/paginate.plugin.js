@@ -67,4 +67,5 @@ const paginate = (schema) => {
   };
 };
 
-module.exports = paginate;\n// Updated 2025\n
+module.exports = paginate;
+// Updated 2025

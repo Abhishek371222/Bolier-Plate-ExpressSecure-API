@@ -40,4 +40,5 @@ const toJSON = (schema) => {
   });
 };
 
-module.exports = toJSON;\n// Updated 2025\n
+module.exports = toJSON;
+// Updated 2025

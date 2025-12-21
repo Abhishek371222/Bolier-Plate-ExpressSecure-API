@@ -14,4 +14,5 @@ const pick = (object, keys) => {
   }, {});
 };
 
-module.exports = pick;\n// Updated 2025\n
+module.exports = pick;
+// Updated 2025

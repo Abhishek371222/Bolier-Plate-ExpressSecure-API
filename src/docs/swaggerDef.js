@@ -18,4 +18,5 @@ const swaggerDef = {
   ],
 };
 
-module.exports = swaggerDef;\n// Updated 2025\n
+module.exports = swaggerDef;
+// Updated 2025

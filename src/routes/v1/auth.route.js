@@ -288,4 +288,5 @@ module.exports = router;
  *             example:
  *               code: 401
  *               message: verify email failed
- */\n// Updated 2025\n
+ */
+// Updated 2025

@@ -88,4 +88,5 @@ userSchema.pre('save', async function (next) {
  */
 const User = mongoose.model('User', userSchema);
 
-module.exports = User;\n// Updated 2025\n
+module.exports = User;
+// Updated 2025

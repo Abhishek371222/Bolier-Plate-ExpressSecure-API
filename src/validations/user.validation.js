@@ -51,4 +51,5 @@ module.exports = {
   getUser,
   updateUser,
   deleteUser,
-};\n// Updated 2025\n
+};
+// Updated 2025

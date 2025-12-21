@@ -41,4 +41,5 @@ const errorHandler = (err, req, res, next) => {
 module.exports = {
   errorConverter,
   errorHandler,
-};\n// Updated 2025\n
+};
+// Updated 2025

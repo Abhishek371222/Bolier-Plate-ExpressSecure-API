@@ -21,4 +21,5 @@ const errorHandler = morgan(errorResponseFormat, {
 module.exports = {
   successHandler,
   errorHandler,
-};\n// Updated 2025\n
+};
+// Updated 2025
