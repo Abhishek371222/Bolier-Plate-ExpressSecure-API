@@ -30,3 +30,4 @@ volumes:
 networks:
   node-network:
     driver: bridge
+# Updated 2025
