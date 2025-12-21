@@ -4,3 +4,4 @@ services:
   node-app:
     container_name: node-app-prod
     command: yarn start
+# Updated 2025
