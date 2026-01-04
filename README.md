@@ -469,8 +469,8 @@ If you have any questions or need help, please:
 
 <div align="center">
 
-**Made with ❤️ by [Abhishek371222](https://github.com/Abhishek371222)**
+**Made with ❤️ by [Abhishek371](https://github.com/Abhishek371222)**
 
 ⭐ Star this repo if you find it helpful!
 
-</div>\n\n<!-- Updated 2025 -->\n
+</div><!-- Updated 2025 -->\n
